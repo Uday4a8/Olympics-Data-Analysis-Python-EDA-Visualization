@@ -1,16 +1,19 @@
 # Olympics-Data-Analysis-Python-EDA-Visualization
-• Analyzed 70,000+ Olympic athlete records using Python (Pandas, NumPy) to explore participation and medal trends
+# Olympics Data Analysis
 
-• Performed data cleaning and preprocessing by handling missing values and examining dataset structure using df.head() and df.info()
+## Problem
+Analyze Olympic dataset to find trends in medals and participation.
 
-• Conducted exploratory data analysis (EDA) including year-wise athlete participation, country-wise medal distribution, and athlete demographics
+## Dataset
+70,000+ athlete records
 
-• Built visualizations using Matplotlib and Seaborn such as bar charts, heatmaps, boxplots, violin plots, and scatter plots
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn
 
-• Created pivot tables to analyze medal counts by country and year to identify top-performing nations
+## Key Insights
+- USA dominates medal count
+- Participation increased over years
+- Gender gap reduced over time
 
-• Analyzed athlete age distribution across Summer and Winter Olympics using statistical plots
-
-• Explored height vs weight relationship among medal-winning athletes to identify physical performance patterns
-
-• Identified most medal-winning countries and participation trends across Olympic years
+## Conclusion
+Data shows growth in global participation and competitive trends.
